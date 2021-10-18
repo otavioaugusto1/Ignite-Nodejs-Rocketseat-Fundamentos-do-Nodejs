@@ -1,0 +1,11 @@
+{
+  "name": "Ignite-Nodejs-Rocketseat-Fundamentos-do-Nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/otavioaugusto1/Ignite-Nodejs-Rocketseat-Fundamentos-do-Nodejs.git",
+  "author": "Otávio Augusto Gonçalves Nogueira <otavio.a.nogueira@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
